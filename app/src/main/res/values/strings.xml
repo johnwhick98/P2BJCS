@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P2BJCS</string>
+    <string name="titulo1">Pantalla principal</string>
+    <string name="boton1">Siguiente</string>
+    <string name="titulo2">Pantalla 2</string>
+    <string name="boton2">Siguiente</string>
+    <string name="titulo3">Pantalla3</string>
+    <string name="boton3">Inicio</string>
+</resources>
